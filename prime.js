@@ -1,3 +1,4 @@
+
 let number=13
 let count=0
 for(i=1;i<=number;i++){
@@ -8,3 +9,4 @@ console.log("prime")
 }else{
 console.log("not prime")
 }
+
